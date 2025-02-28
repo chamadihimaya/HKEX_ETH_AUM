@@ -146,9 +146,9 @@ def save_to_csv(data):
 
 scraped_data = {
     "Date": [current_date],
-    "AUM_9008": [aum_9009],
-    "AUM_9042": [aum_9046],
-    "AUM_9439": [aum_9179]
+    "AUM_9009": [aum_9009],
+    "AUM_9046": [aum_9046],
+    "AUM_9179": [aum_9179]
 }
 
 save_to_csv(scraped_data)
